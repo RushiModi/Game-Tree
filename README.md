@@ -1,4 +1,4 @@
-# Game-Tree
+# Game-Tree --> Recursive Search Function
 
 This is reasearch paper on a Use of a Game Tree in a strategy games. 
 #Defination: Game Tree --> is a type of recursive search function that examines all
